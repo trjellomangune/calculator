@@ -116,7 +116,7 @@ function Calculator() {
 
   return (
     <div className={styles.calculator}>
-      <p className={styles.header}>Jello's QuickCalc</p>
+      <p className={styles.header}>QuickCalc 1.0</p>
       <input value={displayValue} readOnly />
       <div className={styles.row}>
         <Key
